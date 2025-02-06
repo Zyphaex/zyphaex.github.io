@@ -1,13 +1,13 @@
 export const skills = [
   {
-    name: "JavaScript",
-    badge:
-      "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000",
-  },
-  {
     name: "TypeScript",
     badge:
       "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff",
+  },
+  {
+    name: "JavaScript",
+    badge:
+      "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000",
   },
   {
     name: "Python",
